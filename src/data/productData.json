@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "prices": [
+      {
+        "timestamp": "Sun, 21 May 2023 19:53:02 GMT",
+        "value": 48.828549881803994
+      },
+      {
+        "timestamp": "Tue, 20 Feb 2024 19:53:02 GMT",
+        "value": 15.663919532150715
+      },
+      {
+        "timestamp": "Mon, 16 Oct 2023 19:53:02 GMT",
+        "value": 42.848487283183644
+      },
+      {
+        "timestamp": "Sat, 04 Nov 2023 19:53:02 GMT",
+        "value": 10.497437493857907
+      },
+      {
+        "timestamp": "Mon, 18 Dec 2023 19:53:02 GMT",
+        "value": 40.4569400548868
+      },
+      {
+        "timestamp": "Tue, 02 May 2023 19:53:02 GMT",
+        "value": 11.062488283212428
+      },
+      {
+        "timestamp": "Fri, 17 Nov 2023 19:53:02 GMT",
+        "value": 32.06256551480779
+      },
+      {
+        "timestamp": "Sat, 29 Jul 2023 19:53:02 GMT",
+        "value": 14.05224232602518
+      },
+      {
+        "timestamp": "Sun, 27 Aug 2023 19:53:02 GMT",
+        "value": 27.00019877529682
+      },
+      {
+        "timestamp": "Sun, 24 Mar 2024 19:53:02 GMT",
+        "value": 6.462910701907841
+      }
+    ]
+  }
+]
+
